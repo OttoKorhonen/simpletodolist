@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  border-bottom: gray;
+}
+h1{
+  background-color: black;
+  color: white;
+  margin-top: 0em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form{
+  border: solid;
+  border-color: gray;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+#list-container{
+  align-items: center;
+  border-style: solid ;
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+  border-width: 2px;
+  border-color: lightgrey;
+}
