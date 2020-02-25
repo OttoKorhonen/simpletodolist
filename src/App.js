@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import './App.css';
-import Todotable from './components/Todolist'
 
 function App() {
   const[description, setDescription] = React.useState({description: '', date: ''});
